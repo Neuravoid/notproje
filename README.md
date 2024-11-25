@@ -31,15 +31,13 @@ Program çalıştırıldığında aşağıdaki menü görüntülenir:
 Program çalıştırıldığında aşağıdaki menü görüntülenir:
 
 ```python
-#
 Ana Menü
 1. Öğrenci Ekle
 2. Öğrenci Listesi
 3. Öğrenci Sorgula
 4. Harf Notu Oluştur
 5. Çıkış
-#
-
+```markdown
 Seçeneklere göre işlem yapabilirsiniz.
 
 ### İşlevlerin Açıklamaları
